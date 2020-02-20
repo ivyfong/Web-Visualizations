@@ -1,4 +1,4 @@
-# WebVisualizations
+# Web Visualizations
 
 ## **Objective:**
 The objective of this project is to create a website with Bootstrap to show how the weather changes as you approach the equator (maximum temperature, humidity, cloudiness, and wind speed vs. latitude). The visualizations created in the previous WeatherPy project and the source data used are presented along with a description of the observed trends. 
