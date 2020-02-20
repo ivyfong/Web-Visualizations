@@ -19,7 +19,7 @@ Home (Small Screen)
 Home (Large Screen)
 ![screenshot2.jpg](images/web_screenshot2.JPG)
 
-Visualization - Maximum Temperature vs. Latitude
+Visualization - Latitude vs. Maximum Temperature
 ![screenshot3.jpg](images/web_screenshot3.JPG)
 
 Comparisons
