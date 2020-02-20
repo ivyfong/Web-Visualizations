@@ -20,10 +20,10 @@ Home (Large Screen)
 ![screenshot2.jpg](images/web_screenshot2.JPG)
 
 Visualization - Maximum Temperature vs. Latitude
-![screenshot3.jpg](images/web_screenshot2.JPG)
+![screenshot3.jpg](images/web_screenshot3.JPG)
 
 Comparisons
-![screenshot4.jpg](images/web_screenshot2.JPG)
+![screenshot4.jpg](images/web_screenshot4.JPG)
 
 Data
-![screenshot5.jpg](images/web_screenshot2.JPG)
+![screenshot5.jpg](images/web_screenshot5.JPG)
