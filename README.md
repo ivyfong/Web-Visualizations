@@ -15,6 +15,7 @@ The website has a navigation menu at the top of each page and each page is respo
 ## **Screenshot:**
 
 Home (Small Screen)
+
 ![screenshot1.jpg](images/web_screenshot1.JPG)
 
 Home (Large Screen)
