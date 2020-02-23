@@ -12,7 +12,7 @@ The website has a navigation menu at the top of each page and each page is respo
 ## **Tools:**
 1.	HTML - Bootstrap
 
-## **Screenshot:**
+## **Screenshots:**
 
 Home (Small Screen)
 
