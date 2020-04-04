@@ -16,16 +16,16 @@ The website has a navigation menu at the top of each page and each page is respo
 
 Home (Small Screen)
 
-![screenshot1.jpg](images/web_screenshot1.JPG)
+![screenshot1.jpg](Images/web_screenshot1.JPG)
 
 Home (Large Screen)
-![screenshot2.jpg](images/web_screenshot2.JPG)
+![screenshot2.jpg](Images/web_screenshot2.JPG)
 
 Visualization - Latitude vs. Maximum Temperature
-![screenshot3.jpg](images/web_screenshot3.JPG)
+![screenshot3.jpg](Images/web_screenshot3.JPG)
 
 Comparisons
-![screenshot4.jpg](images/web_screenshot4.JPG)
+![screenshot4.jpg](Images/web_screenshot4.JPG)
 
 Data
-![screenshot5.jpg](images/web_screenshot5.JPG)
+![screenshot5.jpg](Images/web_screenshot5.JPG)
