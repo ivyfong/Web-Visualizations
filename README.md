@@ -1,7 +1,7 @@
 # Web Visualizations
 
 ## **Objective:**
-The objective of this project is to create a website with Bootstrap to show how the weather changes as you approach the equator (latitude vs. maximum temperature, humidity, cloudiness, and wind speed). The visualizations and the source data are presented along with a description of the observed trends. 
+The objective of this project is to create a website with Bootstrap to show how the weather changes as you approach the equator (latitude vs. maximum temperature, humidity, cloudiness, and wind speed). The visualizations and data are presented along with a description of the observed trends. 
 
 The website has a navigation menu at the top of each page and each page is responsive. The website contains 7 pages including: 
 * Landing page with an explanation of the project.
