@@ -10,7 +10,7 @@ The website has a navigation menu at the top of each page and each page is respo
 * Data page with the source data.
 
 ## **Tools:**
-1.	HTML - Bootstrap
+HTML - Bootstrap
 
 ## **Screenshots:**
 
